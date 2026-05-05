@@ -29,3 +29,7 @@ This project analyzes sales performance, profitability, and regional trends usin
 
 ![Dashboard 3](Screenshot%202026-05-05%20102931.png)
 
+## 📁 Project File
+> Open this file using Microsoft Power BI Desktop to explore the interactive dashboard.
+Download the Power BI file here:  
+[Download .pbix](first%20Power%20BI%20work.pbix)
