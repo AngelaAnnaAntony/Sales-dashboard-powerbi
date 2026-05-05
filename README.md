@@ -20,3 +20,9 @@ This project analyzes sales performance, profitability, and regional trends usin
 * Power BI
 * DAX
 * Data Visualization
+
+## Dashboard Preview
+![Dashboard 1](Screenshot2026-05-05102854.png)
+![Dashboard 2](Screenshot2026-05-05102911.png)
+![Dashboard 3](Screenshot2026-05-05102931.png)
+
