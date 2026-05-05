@@ -22,7 +22,7 @@ This project analyzes sales performance, profitability, and regional trends usin
 * Data Visualization
 
 ## Dashboard Preview
-![Dashboard 1](Screenshot2026-05-05102854.png)
-![Dashboard 2](Screenshot2026-05-05102911.png)
-![Dashboard 3](Screenshot2026-05-05102931.png)
+![Dashboard 1](Screenshot 2026-05-05 102854.png)
+![Dashboard 2](Screenshot 2026-05-05 102911.png)
+![Dashboard 3](Screenshot 2026-05-05 102931.png)
 
